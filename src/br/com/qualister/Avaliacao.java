@@ -1,7 +1,7 @@
 package br.com.qualister;
 /**
  * 
- * @author Claudio Martins
+ * @author Claudio Martins 
  */
 public class Avaliacao
 {
