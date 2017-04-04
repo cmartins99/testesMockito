@@ -1,0 +1,1 @@
+Esse é um teste de SVN para ser versionado em um repositorio do Git.
